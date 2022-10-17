@@ -3,7 +3,7 @@
 Module 4 Homework - SeungUk Kim
 
 ## Overview
-This is a description about the jupyter notebook for Fall 2022 - ATMS 523 Homework2. `Module4.ipynb` is divided into 3 parts, preprocessing data, EOF analysis, and reconstruction.
+This is a description about the jupyter notebook for Fall 2022 - ATMS 523 Homework4. `Module4.ipynb` is divided into 3 parts, preprocessing data, EOF analysis, and reconstruction.
 Monthly ERA5 sea surface temperature, total precipitation, land-sea mask data from ERA5 [cds.climate.copernicus.eu](cds.climate.copernicus.eu) are used.
 
 ### Data preparation
